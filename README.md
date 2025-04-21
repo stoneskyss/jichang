@@ -16,7 +16,7 @@ ClashSub 博客精选了好用的翻墙机场梯子，支持 Clash、Shadowrocke
 - 2025 稳定翻墙机场推荐
 - Trojan 协议机场
 - 高端专线翻墙机场
-- [新用户注册8折优惠](https://clashsub.net/wgetcloud)
+- [新用户注册8折优惠](https://3jkkvi9afjjln2yjwnbc.wgetcloud.org/)
 
 WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采用国内优质服务器接入，亚马逊 Global Accelerator 专线加速。WgetCloud 由海外团队运作，除了支持常见的 Shadowsocks 协议外，也支持 V2ray、SSR 和 Trojan 协议，套餐价格相对偏贵，属于高端翻墙机场，适合追求极致稳定的翻墙用户，如外贸工作、开发人员使用。支持定制套餐，重度翻墙用户或团队用户可在官网「增值服务」中进行流量和设备数量自定义套餐。套餐定制也支持流量包和限时1年时长的按量付费套餐。  
 **套餐价格：**
@@ -25,7 +25,7 @@ WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，采�
 - 精品专线：月付：￥79/月，180G流量/月。季付：￥228/季，240G流量/月。年付：￥828/年，320G流量/月。
 
 
-[WgetCloud 机场官网](https://clashsub.net/wgetcloud) ｜ [WgetCloud 全球加速怎么样？](https://clashsub.net/how-about-gacloud-vpn/)
+[WgetCloud 机场官网]([https://3jkkvi9afjjln2yjwnbc.wgetcloud.org/)] ｜ [WgetCloud 全球加速怎么样？](https://clashsub.net/how-about-gacloud-vpn/)
 
 [![悠兔机场官网 ](https://clashsub.net/wp-content/uploads/2023/10/%E6%82%A0%E5%85%94%E6%9C%BA%E5%9C%BA%E5%AE%98%E7%BD%91-2.webp "悠兔机场官网 ")](https://clashsub.net/youtu) 
 ### 2.悠兔机场
