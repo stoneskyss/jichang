@@ -13,7 +13,6 @@
 
 精选了好用的翻墙机场梯子，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray 等多种流行客户端。排名不分先后顺序。建议翻墙者购买月付套餐，满意之后再决定购买更长时间套餐，另外，**一定要有备用的翻墙梯子**，避免完全失联。 
 
-https://hnekoo.com/#/register?code=p7QKoYsO
 
 # 特别推荐 稳定,便宜,性价比高! 开业时间： 2021年至今（时间长更放心）
 # Hneko云 机场主打性价比高,稳定 - 2026 免费翻墙机场首选
